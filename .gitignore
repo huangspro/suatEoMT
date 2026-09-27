@@ -1,0 +1,12 @@
+
+wandb/
+myDataset/
+eomt/
+img/
+img_out/
+output.zip
+img2/
+img_out2/
+
+**/__pycache__/
+
